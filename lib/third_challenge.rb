@@ -40,5 +40,3 @@ def third_challenge
       ]
    }
 end
-
-puts epic_tragedy[:montague][:patriarch]
